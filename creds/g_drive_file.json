@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "groovy-electron-385614",
+  "private_key_id": "f073b345fbc4f50d5dac4946b490606d1486a6f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/x1VFOyKwP/xp\nSVaTvJuzy2TRf2dFJg0W3odZo2ZqDaRwdQ2U15J57FEl3YaS6pZyOhjmJsEiYeu1\nZvDBQKiXU/3OcPg442H3W67ge3tRp2ErAVfBlsdj0EjnCsoIdNFO7BZ+PZzTVRsU\nEFUx5QwyMF8wEXU+zeUbe5+uOOipQTRkg7SS/oi09qPAswKA0oAoUYEy6G8gVaX9\n3MFrVkGD4O2lzDHrBZbFaHj/MRJtzlW7ZBNvJr+/alatkyxACZSDScNh7E4TupJg\nRTqLplU/Ev0NKZM5br/t9q8vXuXCwOggDK+/2zox7o1+kAYOW0Yn06Ph+OKLDQYf\nVMwfwTIfAgMBAAECggEAQ0ibGRP7QpzgYMwTLPgCJJ1afMnXIIKOGxTtpbxXRSQO\nKkpW/n53bIFFoyRKf6cAK4lIjQ7Ruc9jFBzOoO6fd6BHLrOh0sur5k3rV+TayjYQ\nODdbY5cT02gS+8RkR308phTce2QAboCwZGSqjzvOAJnJ+6JUYTl5hR/lUQm0TxTt\ns6RCO2eqBLyyZh6Yz3VBWfk/cjFCmLxQ+7CuQe1NC8B8w8rpUEdHN5FeY2ro/Eqa\ncMqOv3KEhCXEc5aCof4PPZOf8fcrSfwEa4+Hi/zMQm8R3+CkOvH2uc4EjN2OHKtZ\n/ysFngVlbR4nrD68l9KKQ3U1S441FwhNTqzPhPWjGQKBgQD6tUQpClaGUvtuJRBD\n1M1klvwnjitOULYyP6VgBvSvkXyd4eIwcTugVh0lrCxsLOzXl28QUVA65+YNCsAe\nTJzo4W+FrCDkxfGFrXpsg5pmEy8vh2oct2Qq3lJt8hFIE4IqMe6kD54ToTUqt2U7\n1MV/TDBokwHV28jis/BIfHrCHQKBgQDD06JNsG1t9uNhqqIOJ9xZUDdUJk5tSg/+\n9dVhkEDZHRhiYL+sfTkBgOPqPuKH6VnuJ0k+o06qFpYx/rZZWstZkaHMQtNQQx2g\n9gqC5+CN2/e05/nTQd/86Ko60QlmNp23ltbQWDyquq5axLDdgKO/sBOsxqAy05G3\nDeO0cJ1QawKBgGHNIL/Z1pMkAA2hy8yKUW2yML/FiENO3SSRC5SAYiezW6fDnJdF\nNPuBXHF7zwCMLgCUhLEa529zU5022md3f6ahev3sfhCA341EdYOreynixf+GlfCJ\n4juO6x0U14UEhzyqqeu6Y/JIaxM04/sJL9pPAHtrDcY9rQozI8NDPChJAoGBAImt\n+PXALh/bLiDTtB5Zvh15PX1HdWp3YOmz83Ml1cIQJ727IefnHrZE5Xki/2fpE5ZS\nPrfwX3VMbgr2d0Q5hrERp/0RmrpahbFOazOATavPVMf3NPln3lBVUKILqB0aFycl\nwSA4eWbb24vrsCH7uKUj6aFXAPjbMR7PgCGz75bDAoGAfLukoJXklxAd11qUdHFk\nNTajIaskc1+kmQ0Jbgs8yI5Y/+HhHac5aoe3kncVFmXZ1UPXMSO2GLLzqDnAXNdY\nj85HC0eaC3bQ+UhfAxR7dRVQZ4/oUB5QRZFDhy+XgA95aeLigLLGFRzjCJkWu8bh\nyixxfovb8Fv3jY+YBwJorBY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "g-drive-connection@groovy-electron-385614.iam.gserviceaccount.com",
+  "client_id": "111708478229701841584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/g-drive-connection%40groovy-electron-385614.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
